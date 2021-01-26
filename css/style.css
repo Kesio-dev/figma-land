@@ -1,0 +1,151 @@
+body {
+	background-color: #181818;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+	color: #fff;
+	font-size: 17px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-weight: 500;
+}
+
+.navbar-wrapper {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.nav__links {
+	text-decoration: none;
+	font-size: 17px;
+	color: #fff;
+	font-weight: 500;
+	margin-left: 10px;
+}
+
+.container-header {
+	margin: 0 auto;
+	width: 1100px;
+}
+
+.btn-light {
+	padding: 10px 40px;
+	background: inherit;
+	border: 1px solid #fff;
+	transition: .09s;
+}
+
+.btn-light:hover {
+	background: #fff;
+	border: 1px solid #fff;
+	color: #181818;
+}
+
+.nav button {
+	margin-left: 40px;
+}
+
+.title__header {
+	max-width: 1000px;
+	margin: 0 auto;
+	font-size: 75px;
+	text-align: center;
+	font-weight: 500;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.subtitle__header {
+	max-width: 700px;
+	margin: 0 auto;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 300;
+	color: #fff;
+	margin-top: 10px;
+}
+
+.btn-blue {
+	padding: 10px 40px;
+	background: inherit;
+	border: 1px solid #4452FE;
+	transition: .09s;
+}
+
+.btn-blue:hover {
+	background: #4452FE;
+	border: 1px solid #4452FE;
+}
+
+.header-btn {
+	display: flex;
+	justify-content: center;
+}
+
+.header-btn button {
+	margin: 17px;
+}
+
+.img__header {
+	width: 100%;
+	margin-top: 60px;
+}
+
+.features {
+	text-align: center;
+}
+
+.title__fea {
+	margin: 0 auto;
+	padding-top: 10px;
+	font-size: 52px;
+	color: #fff;
+	font-weight: 300;
+}
+
+.subtitle__fea {
+	padding-top: 10px;
+	margin: 0 auto;
+	font-size: 20px;
+	font-weight: 400;
+	color: #fff;
+	max-width: 700px;
+}
+
+.features {
+	margin-top: 100px;
+}
+
+.fea-footer {
+	display: flex;
+	justify-content: space-between;
+	max-width: 1100px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.fea-text__item {
+	max-width: 270px;
+}
+
+.fea-text__title {
+	font-size: 20px;
+	font-weight: 500;
+	color: #fff;
+	margin-top: 40px;
+}
+
+.fea-text__subtitle {
+	font-weight: 300;
+	color: #fff;
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+.img-fea {
+
+}
